@@ -1,3 +1,5 @@
+# The Software Company
+
 Welcome to The Software Companies main Correspondence Generation project. We are using this repository to be able to demonstrate to our clients how to use GitHub in a best practices fashhion.
 
 * This project uses .NET Core 3.1.8 (we are not yet ready to go to 5 - but this set of repos will be cloned and upgraded at some point
