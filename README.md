@@ -4,7 +4,7 @@ Welcome to The Software Companies main Correspondence Generation project. We are
 
 * This project uses .NET Core 3.1.8 (we are not yet ready to go to 5 - but this set of repos will be cloned and upgraded at some point
 
-* The main services will be written as .NET Core Worker Services that will initially target Windows, but will be migrated to use Linux once we are happy with the solution. This will 
+* The main services will be written as .NET Core Worker Services that will initially target Windows, but will be migrated to use Linux once we are happy with the solution. This will be achieved with the use of compiler flags.
 * All of the services will use Serilog for their logging
 * All of the services will write a local log to the job folders in a sub-directory called logs
 * All of the services will also publish their log entries to a SEQ endpoint
